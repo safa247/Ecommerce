@@ -1,14 +1,11 @@
 # BELLAWEAR Ecommerce Site
 
-![BELLAWEAR Logo](path/to/your/logo.png)
+
 
 ## Overview
 
 BELLAWEAR is an online shopping platform that offers a wide range of trendy and fashionable clothing. This repository contains the source code for both the front-end and back-end components of the BELLAWEAR ecommerce site.
 
-## Demo
-
-View a live demo of BELLAWEAR [here](your-demo-link).
 
 
 
